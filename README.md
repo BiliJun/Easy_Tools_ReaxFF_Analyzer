@@ -1,10 +1,5 @@
 # Easy_Tools_ReaxFF_Analyzer
 
-# This is an easy tool for freshman to analyze the ReaxFF MD data.
-# If any inconvenience when produce your data, please make comments.
-
-
-
 Function:
 
 Draw_log_files
